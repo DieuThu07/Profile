@@ -5,7 +5,7 @@
  */
 interface DuyThinhConfigInterface {
     public function CommonMethod();
-}
+} 
 class DuyThinhHeader implements DuyThinhConfigInterface {
     public $title = "Phung Duy Thinh | Profile Home";
     public $description = "Hi my name is DuyThinh / A freelance / web developer / Vexer";
